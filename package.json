@@ -1,0 +1,25 @@
+{
+  "name": "react-fancy-spinners",
+  "version": "1.0.0",
+  "description": "Fancy spinners for React (CSS only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwanahmed19/react-fancy-spinners.git"
+  },
+  "keywords": [
+    "react",
+    "fancy",
+    "spinners",
+    "css"
+  ],
+  "author": "Rizwan Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizwanahmed19/react-fancy-spinners/issues"
+  },
+  "homepage": "https://github.com/rizwanahmed19/react-fancy-spinners#readme"
+}
