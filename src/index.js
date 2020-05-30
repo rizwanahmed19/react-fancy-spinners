@@ -1,7 +1,5 @@
-console.log('hello' + 'my' + 'friend');
+import React from 'react';
 
-const app = x => {
-  console.log('APPING');
-};
+const Spinner = props => <h1>Spinner</h1>;
 
-app();
+export default Spinner;
